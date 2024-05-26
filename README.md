@@ -4,7 +4,7 @@ Multi-Modal Prompt provides a user-friendly paradigm for customized generation. 
 
 ### Results
 
-![resen](assets\present.jpg)
+![resen](assets/present.jpg)
 
 
 
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 **example1:** 
 
-![70921191997](assets\multi_modal_prompt_example1.png)
+![70921191997](assets/multi_modal_prompt_example1.png)
 
 we will try to generate customized images based on this multi-modal prompt through the command below
 
@@ -42,7 +42,7 @@ the default directory of output images will be `output_imgs/`
 
 **example2:** 
 
-![70921531215](assets\multi_modal_prompt_example2.png)
+![70921531215](assets/multi_modal_prompt_example2.png)
 
 we will try to generate customized images based on this multi-modal prompt through the command below
 
