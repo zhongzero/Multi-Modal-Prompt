@@ -1,0 +1,1 @@
+python src/main.py  --multi_modal_prompt "A photo of [img] and [img] on the beach" --img_paths "[examples/orange.jpg, examples/can.jpg]"
