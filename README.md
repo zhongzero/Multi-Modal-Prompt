@@ -69,3 +69,13 @@ python src/main.py  --multi_modal_prompt "A photo of [img] and [img] on the beac
 | `--generate_imgs_num`     | int  | `20`                                                    | *Optional* Defaults to `20`.   The number of images to generate. |
 | `--gpt_api_key`           | str  | `"sk-RDzt6LOa3JctbuAAbtHkp7OxAaMjCUkkvZARlFBGg0pI5hhC"` | *Optional* Api key of openai gpt3.5. This project has provided a available api  key for test, and please don't use it for other purpose. |
 | `--gpt_base_url`          | str  | `"https://api.chatanywhere.com.cn/v1"`                  | *Optional* Base url of openai gpt3.5.                        |
+
+### Cite
+```bibtex
+@article{zhong2024user,
+  title={User-Friendly Customized Generation with Multi-Modal Prompts},
+  author={Zhong, Linhao and Hong, Yan and Chen, Wentao and Zhou, Binglin and Zhang, Yiyi and Zhang, Jianfu and Zhang, Liqing},
+  journal={arXiv preprint arXiv:2405.16501},
+  year={2024}
+}
+```
